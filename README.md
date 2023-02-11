@@ -1,5 +1,5 @@
 # Tee4tao
-✨A frontend developer having fun buiding cool stuffs✨
+✨A frontend developer having fun building cool stuffs✨
 
 ## About me
 
