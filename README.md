@@ -1,4 +1,4 @@
-### Tee4tao
+# Tee4tao
 ✨A frontend developer having fun buiding cool stuffs✨
 
 ## About me
