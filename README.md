@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tee4tao" alt="tee4tao" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://tee4tao.netlify.app/](https://tee4tao.netlify.app/)
 
-- 💬 Ask me about **JavaScript, ReactJS, TailwindCSS**
+- 💬 Ask me about **JavaScript, React.js, Next.js, TailwindCSS**
 
 - 📫 How to reach me **adeniyitaofeek001@gmail.com**
 
