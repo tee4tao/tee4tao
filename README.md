@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofeek</h1>
-<h3 align="center">I'm a passionate Frontend Developer building awesome stuff for the web! I like to work with technologies like Tailwindcss, Vanilla JS, React</h3>
+<h3 align="center">I'm a passionate Frontend Developer building awesome stuff for the web! I like to work with technologies like Tailwindcss, Vanilla JS, React.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tee4tao&label=Profile%20views&color=0e75b6&style=flat" alt="tee4tao" /> </p>
 
