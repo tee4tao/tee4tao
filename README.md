@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://tee4tao.netlify.app/](https://tee4tao.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tee4tao.vercel.app/](https://tee4tao.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Next, Typescript**
 
