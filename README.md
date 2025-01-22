@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adeniyitaofeek001@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1mMU0xDnefvS5vGsBmm2BnA03m7zfupmD)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1nFc_yged3qrv6MS-4FgUXyDDLfWyeNG4/view?usp=sharing)
 
 - ⚡ Fun fact **I always get it done!**
 
