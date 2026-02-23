@@ -27,7 +27,7 @@ const taofeek = {
   focus:      "Frontend Engineering",
   capable:    ["Full-Stack Development", "REST APIs", "Database Design"],
   stack:      ["React", "Next.js", "TypeScript", "Node.js", "TailwindCSS"],
-  currently:  ["Deepening backend architecture knowledge", "Python"],
+  currently:  ["Deepening backend architecture knowledge"],
   principle:  "Ship clean. Ship fast. Ship with intention.",
 };
 ```
