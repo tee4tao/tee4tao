@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tee4tao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tee4tao)
 [![Twitter](https://img.shields.io/badge/Twitter-@tee4tao-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tee4tao)
 [![Email](https://img.shields.io/badge/Email-adeniyitaofeek001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adeniyitaofeek001@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1nFc_yged3qrv6MS-4FgUXyDDLfWyeNG4/view?usp=sharing](https://docs.google.com/document/d/1qVmeUjKQPs3Il8YYKQ7KsIsAlSucIJkCbInstKfa69s/edit?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1qVmeUjKQPs3Il8YYKQ7KsIsAlSucIJkCbInstKfa69s/edit?usp=sharing)
 
 </div>
 
