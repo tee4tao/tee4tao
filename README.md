@@ -1,16 +1,16 @@
 <div align="center">
 
-# Taofeek Adeniy
+# Taofeek Adeniyi
 
-### Frontend-Focused Engineer · Full-Stack Capable
+### Full-Stack Engineer
 
-**I build polished, performant web experiences from UI to API.**
+**I build complete web applications, from polished UIs to robust, scalable backends.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tee4tao.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://tee4tao.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tee4tao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tee4tao)
 [![Twitter](https://img.shields.io/badge/Twitter-@tee4tao-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tee4tao)
 [![Email](https://img.shields.io/badge/Email-adeniyitaofeek001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adeniyitaofeek001@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1qVmeUjKQPs3Il8YYKQ7KsIsAlSucIJkCbInstKfa69s/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nFc_yged3qrv6MS-4FgUXyDDLfWyeNG4/view?usp=sharing)
 
 </div>
 
@@ -18,16 +18,17 @@
 
 ## About Me
 
-Frontend engineer who doesn't stop at the browser. My core strength is building fast, accessible, and well-crafted UIs with React and Next.js, but I'm equally comfortable wiring up REST APIs with Node.js/Express, working with relational databases, and understanding the full picture of how an application runs.
+Full-stack engineer who takes products from idea to deployment. I have a strong foundation in frontend — building fast, accessible, and well-crafted UIs with React and Next.js, and I back that with solid backend work: REST APIs with Node.js/Express, relational and non-relational databases, and a solid grasp of how systems fit together end-to-end.
 
 I care about the craft: clean code, good architecture, and shipping things that work.
 
 ```ts
 const taofeek = {
-  focus:      "Frontend Engineering",
-  capable:    ["Full-Stack Development", "REST APIs", "Database Design"],
-  stack:      ["React", "Next.js", "TypeScript", "Node.js", "TailwindCSS"],
-  currently:  ["Deepening backend architecture knowledge"],
+  focus:      "Full-Stack Engineering",
+  frontend:   ["React", "Next.js", "TypeScript", "TailwindCSS"],
+  backend:    ["Node.js", "Express", "Java", "Python"],
+  databases:  ["MySQL", "MongoDB"],
+  currently:  ["Deepening system design knowledge"],
   principle:  "Ship clean. Ship fast. Ship with intention.",
 };
 ```
@@ -56,6 +57,7 @@ const taofeek = {
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & Workflow**
 
